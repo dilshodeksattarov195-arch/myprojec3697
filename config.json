@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionvecrypt",
+        "uuid": 9065044,
+        "checksum": "rfmv6"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
